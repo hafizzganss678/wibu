@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/andyjavadams/botwa)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hafizzganss678/wibu)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -12,7 +12,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/andyjavadams/botwa
+git clone https://github.com/hafizzganss678/wibu
 cd botwa
 npm install
 npm update
@@ -28,7 +28,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/andyjavadams/botwa
+git clone https://github.com/hafizzganss678/wibu
 cd botwa
 npm install
 npm update
