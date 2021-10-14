@@ -1,4 +1,4 @@
-# A N D Y - B O T Z
+# U C H I H A - B O T Z
 
 Simple WhatsApp Bot
 
@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/hafizzganss678/wibu
-cd botwa
+cd wibu
 npm install
 npm update
 ```
@@ -29,7 +29,7 @@ npm update
 
 ```bash
 git clone https://github.com/hafizzganss678/wibu
-cd botwa
+cd wibu
 npm install
 npm update
 ```
